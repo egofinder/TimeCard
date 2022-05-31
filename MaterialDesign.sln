@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialDesign", "MaterialDesign\MaterialDesign.csproj", "{171F5A8B-288F-42FF-A7FE-850660295FF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialDesignDemo", "..\..\..\Downloads\MaterialDesignInXamlToolkit-master\MaterialDesignInXamlToolkit-master\MainDemo.Wpf\MaterialDesignDemo.csproj", "{FB77404D-A227-4686-8A19-E713FB557CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171F5A8B-288F-42FF-A7FE-850660295FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171F5A8B-288F-42FF-A7FE-850660295FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171F5A8B-288F-42FF-A7FE-850660295FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171F5A8B-288F-42FF-A7FE-850660295FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB77404D-A227-4686-8A19-E713FB557CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB77404D-A227-4686-8A19-E713FB557CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB77404D-A227-4686-8A19-E713FB557CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB77404D-A227-4686-8A19-E713FB557CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48649FC2-4EFD-4AB8-A138-9E48DF22C8E5}
+	EndGlobalSection
+EndGlobal
