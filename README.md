@@ -1,1 +1,1 @@
-### .Net application communication webserver to track employees’ work.
+### .Net application to track employees’ work.
